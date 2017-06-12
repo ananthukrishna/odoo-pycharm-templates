@@ -4,6 +4,10 @@
 This Templates can help you to develop Odoo Modules Faster and with no Typing Errors
 
 ### Configuration:
+Windows users
+
+C:\Users\user\.PyCharmCE2016.3\config\templates
+
 If You are using a linux distribution you can save the XML file in PyCharm files, Just find the path:
 
     ~/.PyCharm*/config/templates
